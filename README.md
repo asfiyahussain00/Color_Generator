@@ -12,5 +12,5 @@ A simple **Random Color Generator** built with **HTML**, **CSS**, and **JavaScri
 
 You can try the live demo of the Color Generator by visiting:
 
-<a href= "https://github.com/asfiyahussain00/Color_Generator"> Live link </a>
+<a href= " https://asfiyahussain00.github.io/Color_Generator/"> Live link </a>
 
